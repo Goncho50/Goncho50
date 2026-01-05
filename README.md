@@ -1,4 +1,3 @@
-# <h4>💫 About Me:
 # <h4>¡Hola! Soy Gonzalo, estudiante de Ciencia e Ingeniería de Datos en la Universidad Autónoma de Madrid (UAM).<br><br>En este repositiorio se encuentran proyectos en los que he trabajado como:<br><br>🤖 IA Generativa de Imágenes<br>🧠 Modelos de Machine Learning<br>📊 Estadística y probabilidades<br>🕹️ Reinforcement Learning<br>¡ Y mucho más !
 
 
